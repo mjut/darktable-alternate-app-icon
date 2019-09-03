@@ -45,6 +45,7 @@ darktable.app/Contents/Resources/share/darktable/pixmaps/idbutton.svg
 
 <img src="/img/icon-blades.png" width="400" >
 
+Simplified but still close to the original icon, this is the "simplified version". Find all the icons in the folder _icons-blades_. 
 
 
 ### Dimmed icon
