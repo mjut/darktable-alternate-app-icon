@@ -47,6 +47,9 @@ darktable.app/Contents/Resources/share/darktable/pixmaps/idbutton.svg
 
 Simplified but still close to the original icon, this is the "simplified version". Find all the icons in the folder _icons-blades_. 
 
+<img src="/img/macos3.png" width="400" >
+<img src="/img/macos4.png" width="400" >
+
 ---
 ---
 
@@ -57,8 +60,5 @@ To fulfill the request for a less distracting app icon in the top section of the
 <img src="/img/idbutton-grey.png" width="128" >
 
 ---
-
-
-
 
 <img src="/img/animation.gif" width="128">
