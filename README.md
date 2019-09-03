@@ -28,9 +28,9 @@ To make the appearance more tidy and cleaner, I want to get rid of the black cir
 <img src="/img/macos2.png" width="400" >
 
 ## Paths and installation
-Download this [repository](https://github.com/mjut/darktable-alternte-icon/archive/master.zip) and take look at the folder _icons_ – place those into its desired directory. (rename the old files to keep them if you want to go back to the old app icon)
+Download this [repository](https://github.com/mjut/darktable-alternte-icon/archive/master.zip) and take look at the folder _icons_ – place those into its according directories. (Don't overwrite anything, rename the old files first to keep them.)
 
-### (MacOS)
+### MacOS
 
 To get into the following folders, right-click on darktable.app and choose _Show Package Contents_.
 Place the files as following:
