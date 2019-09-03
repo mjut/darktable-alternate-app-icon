@@ -39,6 +39,15 @@ darktable.app/Contents/Resources/Icons.icns
 darktable.app/Contents/Resources/share/darktable/pixmaps/idbutton.svg
 ```
 
+---
+
+### Dimmed icon
+
+To fulfill the request for a less distracting app icon in the top section of the darktable window, find a dimmed version here icons/idbutton-grey.svg
+
+<img src="/img/idbutton-grey.png" width="200" >
+
+---
 
 
 
