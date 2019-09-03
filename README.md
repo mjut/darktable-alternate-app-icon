@@ -57,7 +57,7 @@ Simplified but still close to the original icon, this is the "simplified version
 
 To fulfill the request for a less distracting app icon in the top section of the darktable window, find a dimmed version here icons/idbutton-grey.svg _for using it, you'd need to rename it to_ idbutton.svg _and place it into the folder_ pixmaps.
 
-<img src="/img/idbutton-grey.png" width="128" styles="float:left;" >
+<img src="/img/idbutton-grey1.png" width="128" styles="float:left;" >
 <img src="/img/idbutton-grey.png" width="128" styles="float:left;" >
 
 
